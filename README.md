@@ -1,3 +1,6 @@
+# Создание пулл реквеста на гитхаб
+https://www.youtube.com/watch?v=veMDnBt30pk
+
 # -22222 
 a=[5, "Ирина", 6.8, "Спб", 54]
 print(a)
